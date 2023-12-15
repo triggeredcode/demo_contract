@@ -1,0 +1,3 @@
+    0          number                       uint256
+🌱  1          etc                          string
+🌱  2          name                         bool
