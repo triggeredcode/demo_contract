@@ -1,3 +1,4 @@
-    0          number                       uint256
-🌱  1          etc                          string
-🌱  2          name                         bool
+🏴  0          abc                          string
+🏴  1          numb2                        uint128
+    1: 16      16 dirty bytes               
+🪦

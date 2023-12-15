@@ -2,15 +2,21 @@
 pragma solidity ^0.8.13;
 
 contract Counter {
-    uint256 public number;
-    string etc;
-    bool name;
-
-    function setNumber(uint256 newNumber) public {
-        number = newNumber;
-    }
-
-    function increment() public {
-        number++;
-    }
+  
 }
+
+
+// contract Counter {
+//     uint256 public number;
+//     string etc;
+//     string abc;
+//     uint128 public numb2;
+
+//     function setNumber(uint256 newNumber) public {
+//         number = newNumber;
+//     }
+
+//     function increment() public {
+//         number++;
+//     }
+// }
